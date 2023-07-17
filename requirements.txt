@@ -1,0 +1,10 @@
+flask
+pandas
+sklearn
+statsmodels
+statsmodels.api
+statsmodels.formula.api
+statsmodels.stats.anova
+scipy.stats
+matplotlib
+pickle

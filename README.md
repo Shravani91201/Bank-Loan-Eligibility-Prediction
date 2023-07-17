@@ -6,16 +6,9 @@
 
 1.[Githubaccount](https://github.com)
 
-2.[vscodeIDE](https://code.visualstudio.com)
+2.[AWS](https://aws.amazon.com/)
 
 3.[GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
-4.[HerakuAccount](https://heroku.com)
+4.[ubantu](http://ubantu.com)
 
-##Create a New Enviroment
-
-  conda create -p proj python==3.7 -y
-
-##Update conda by running
-
-  conda update -n base -c defaults conda
